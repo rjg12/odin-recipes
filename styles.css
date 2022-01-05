@@ -1,0 +1,12 @@
+/* Stylesheet for Odin Recipes Project*/
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:100px;
+    text-align: center;
+}
+
+.chickpic{
+    height:auto;
+    width:300px;
+}
