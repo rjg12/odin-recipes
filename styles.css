@@ -10,3 +10,16 @@
     height:auto;
     width:300px;
 }
+
+.chick {
+    color:brown;
+}
+
+.guac {
+    color:rgb(37, 201, 37);
+    background-color:black;
+}
+
+.pico {
+    color:red;
+}
